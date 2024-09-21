@@ -1,0 +1,5 @@
+C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/CapsuleClientExample.dir
+C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/CapsuleRawSignalExample.dir
+C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/CapsuleFilteredSignalExample.dir
+C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/edit_cache.dir
+C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/rebuild_cache.dir

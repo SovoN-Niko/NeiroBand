@@ -1,0 +1,1293 @@
+[2024-09-21 23:43:26] INFO: version of the library: v1.5.0-363b787d7 (Release - 2024-07-11T15:57:21Z)
+[2024-09-21 23:43:26] INFO: client name of the library: unknown
+[2024-09-21 23:43:26] INFO: Client connected
+[2024-09-21 23:43:28] INFO: Devices found: 1
+[2024-09-21 23:43:28] INFO: Device: Headband (821039)
+[2024-09-21 23:43:36] INFO: Device connected
+[2024-09-21 23:43:36] INFO: Channels count: 4
+[2024-09-21 23:43:36] INFO: Channel name: O1
+[2024-09-21 23:43:36] INFO: Channel name: T3
+[2024-09-21 23:43:36] INFO: Channel name: T4
+[2024-09-21 23:43:36] INFO: Channel name: O2
+[2024-09-21 23:43:36] INFO: Channel index: 0
+[2024-09-21 23:43:36] INFO: Channel index: 1
+[2024-09-21 23:43:36] INFO: Channel index: 2
+[2024-09-21 23:43:36] INFO: Channel index: 3
+[2024-09-21 23:43:37] INFO: License verified: 1
+[2024-09-21 23:43:41] INFO: Session state: 0
+[2024-09-21 23:43:41] INFO: Device firmware: 4.8.4
+[2024-09-21 23:43:41] INFO: Session started
+[2024-09-21 23:43:41] INFO: Session UUID: 83ffa232-581f-4f42-8d47-16cdeab1d4ac
+[2024-09-21 23:43:41] INFO: Emotion initialized 
+[2024-09-21 23:43:41] DEBUG: NFB train
+
+[2024-09-21 23:43:41] DEBUG: call addfeedback success
+
+[2024-09-21 23:43:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:47] INFO: Calibrator is ready to calibrate NFB
+Close your eyes for 30 seconds
+[2024-09-21 23:43:47] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: NFB update state: alpha = 0.188844 , beta = 0.321684 , theta = 0.365797
+[2024-09-21 23:43:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:47] DEBUG: NFB update state: alpha = 0.261603 , beta = 0.395350 , theta = 0.235457
+[2024-09-21 23:43:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.277499 , beta = 0.391852 , theta = 0.223504
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.280979 , beta = 0.392161 , theta = 0.219835
+[2024-09-21 23:43:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.285498 , beta = 0.393492 , theta = 0.216898
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.302275 , beta = 0.386103 , theta = 0.213388
+[2024-09-21 23:43:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.325867 , beta = 0.369905 , theta = 0.212810
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.340505 , beta = 0.357583 , theta = 0.216203
+[2024-09-21 23:43:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.341588 , beta = 0.355387 , theta = 0.220576
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:48] DEBUG: NFB update state: alpha = 0.338891 , beta = 0.356568 , theta = 0.223138
+[2024-09-21 23:43:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.338797 , beta = 0.354614 , theta = 0.225065
+[2024-09-21 23:43:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.340709 , beta = 0.350127 , theta = 0.227833
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.342004 , beta = 0.347304 , theta = 0.229670
+[2024-09-21 23:43:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.339691 , beta = 0.351647 , theta = 0.227874
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.330111 , beta = 0.365526 , theta = 0.224832
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.313734 , beta = 0.377120 , theta = 0.231836
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.295033 , beta = 0.375859 , theta = 0.247653
+[2024-09-21 23:43:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:49] DEBUG: NFB update state: alpha = 0.279324 , beta = 0.369489 , theta = 0.257265
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 103.448288, stress index 0.000000
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.273063 , beta = 0.366450 , theta = 0.253978
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.280611 , beta = 0.363286 , theta = 0.242863
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 103.448288, stress index 0.000000
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.299733 , beta = 0.353009 , theta = 0.230297
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.319203 , beta = 0.330866 , theta = 0.229004
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.322016 , beta = 0.295238 , theta = 0.261490
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 185.615677, HR 107.142868, stress index 1190.477417
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.309572 , beta = 0.254587 , theta = 0.322343
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.295612 , beta = 0.223371 , theta = 0.378465
+[2024-09-21 23:43:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:50] DEBUG: NFB update state: alpha = 0.288110 , beta = 0.207350 , theta = 0.408941
+[2024-09-21 23:43:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 303.110962, HR 108.433708, stress index 1587.303101
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.286841 , beta = 0.202942 , theta = 0.417134
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.289967 , beta = 0.202684 , theta = 0.415166
+[2024-09-21 23:43:51] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 303.110962, HR 108.433708, stress index 1587.303101
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.293957 , beta = 0.202722 , theta = 0.411428
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.298484 , beta = 0.202896 , theta = 0.407065
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.303171 , beta = 0.203279 , theta = 0.402750
+[2024-09-21 23:43:51] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 312.919495, HR 110.091751, stress index 1190.467896
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.304703 , beta = 0.204343 , theta = 0.401383
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:51] DEBUG: NFB update state: alpha = 0.301034 , beta = 0.207196 , theta = 0.403942
+[2024-09-21 23:43:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 312.919495, HR 110.091751, stress index 1190.467896
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.294322 , beta = 0.212018 , theta = 0.407487
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.288220 , beta = 0.218362 , theta = 0.409004
+[2024-09-21 23:43:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 368.362549, HR 110.701118, stress index 1269.832397
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.284544 , beta = 0.224110 , theta = 0.408687
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.282540 , beta = 0.227233 , theta = 0.408339
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.279280 , beta = 0.229515 , theta = 0.409383
+[2024-09-21 23:43:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 428.658569, HR 110.769249, stress index 1322.742065
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.272789 , beta = 0.232962 , theta = 0.412169
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.265368 , beta = 0.236826 , theta = 0.415523
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:52] DEBUG: NFB update state: alpha = 0.261130 , beta = 0.239527 , theta = 0.417543
+[2024-09-21 23:43:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 428.658569, HR 110.769249, stress index 1322.742065
+[2024-09-21 23:43:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.260761 , beta = 0.240234 , theta = 0.417726
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.261790 , beta = 0.239924 , theta = 0.417308
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 396.860413, HR 110.526321, stress index 1133.778931
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.264058 , beta = 0.239224 , theta = 0.416029
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.268973 , beta = 0.236767 , theta = 0.413497
+[2024-09-21 23:43:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 396.860413, HR 110.526321, stress index 1133.778931
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.275090 , beta = 0.232021 , theta = 0.411908
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.280346 , beta = 0.225100 , theta = 0.413146
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.285069 , beta = 0.216230 , theta = 0.415774
+[2024-09-21 23:43:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 354.412689, HR 110.091743, stress index 992.056580
+[2024-09-21 23:43:53] DEBUG: NFB update state: alpha = 0.290149 , beta = 0.208640 , theta = 0.417034
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.295923 , beta = 0.204465 , theta = 0.417631
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.303446 , beta = 0.201262 , theta = 0.419603
+[2024-09-21 23:43:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 354.412689, HR 110.091743, stress index 992.056580
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.310316 , beta = 0.196726 , theta = 0.423744
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.311166 , beta = 0.193299 , theta = 0.429966
+[2024-09-21 23:43:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 323.573608, HR 109.756104, stress index 881.828064
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.303584 , beta = 0.194674 , theta = 0.439589
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.293034 , beta = 0.204638 , theta = 0.446624
+[2024-09-21 23:43:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:54] DEBUG: NFB update state: alpha = 0.289885 , beta = 0.227365 , theta = 0.434371
+[2024-09-21 23:43:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 299.794220, HR 109.489052, stress index 793.645264
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.297843 , beta = 0.265672 , theta = 0.391721
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.312591 , beta = 0.312458 , theta = 0.328749
+[2024-09-21 23:43:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 299.794220, HR 109.489052, stress index 793.645264
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.324390 , beta = 0.347956 , theta = 0.278455
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.327353 , beta = 0.363912 , theta = 0.258450
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 368.924530, HR 109.271530, stress index 790.508240
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.322606 , beta = 0.372755 , theta = 0.253033
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.314331 , beta = 0.382245 , theta = 0.250705
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.302282 , beta = 0.391120 , theta = 0.254190
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 368.924530, HR 109.271530, stress index 790.508240
+[2024-09-21 23:43:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:55] DEBUG: NFB update state: alpha = 0.289692 , beta = 0.398064 , theta = 0.260286
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.283936 , beta = 0.404435 , theta = 0.259106
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 406.207550, HR 109.090904, stress index 845.404602
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.286215 , beta = 0.408221 , theta = 0.251445
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.291374 , beta = 0.404284 , theta = 0.248317
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.296426 , beta = 0.392974 , theta = 0.252440
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 406.207550, HR 109.090904, stress index 845.404602
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.301033 , beta = 0.382279 , theta = 0.256201
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.304016 , beta = 0.376712 , theta = 0.256441
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 440.850098, HR 108.938538, stress index 891.855408
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.304491 , beta = 0.373482 , theta = 0.256278
+[2024-09-21 23:43:56] DEBUG: NFB update state: alpha = 0.303220 , beta = 0.372451 , theta = 0.255014
+[2024-09-21 23:43:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.301428 , beta = 0.375681 , theta = 0.249700
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 454.751007, HR 108.667526, stress index 931.670410
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.300812 , beta = 0.380362 , theta = 0.242513
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.299138 , beta = 0.383705 , theta = 0.239347
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 454.751007, HR 108.667526, stress index 931.670410
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.292591 , beta = 0.386842 , theta = 0.242117
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.281377 , beta = 0.392630 , theta = 0.247557
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.269945 , beta = 0.402058 , theta = 0.250746
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 485.343628, HR 108.564545, stress index 966.176697
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.265104 , beta = 0.412520 , theta = 0.247659
+[2024-09-21 23:43:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:57] DEBUG: NFB update state: alpha = 0.266565 , beta = 0.421982 , theta = 0.241012
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.266639 , beta = 0.429161 , theta = 0.237986
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 485.343628, HR 108.564545, stress index 966.176697
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.263440 , beta = 0.432015 , theta = 0.240329
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.260918 , beta = 0.430267 , theta = 0.245263
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 517.584167, HR 108.597298, stress index 996.369751
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.257241 , beta = 0.428104 , theta = 0.252130
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.252874 , beta = 0.426426 , theta = 0.259043
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 517.584167, HR 108.597298, stress index 996.369751
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.252915 , beta = 0.424273 , theta = 0.261665
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.261572 , beta = 0.420362 , theta = 0.257161
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:58] DEBUG: NFB update state: alpha = 0.276098 , beta = 0.411761 , theta = 0.250408
+[2024-09-21 23:43:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 548.391052, HR 108.626205, stress index 1023.010620
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.289605 , beta = 0.401737 , theta = 0.245033
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.297967 , beta = 0.397983 , theta = 0.238187
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 573.851807, HR 108.542725, stress index 1046.691406
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.302521 , beta = 0.401447 , theta = 0.228752
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.305421 , beta = 0.405440 , theta = 0.222465
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.307363 , beta = 0.405007 , theta = 0.222850
+[2024-09-21 23:43:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 573.851807, HR 108.542725, stress index 1046.691406
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.309945 , beta = 0.401180 , theta = 0.225860
+[2024-09-21 23:43:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.313890 , beta = 0.397330 , theta = 0.226962
+[2024-09-21 23:43:59] DEBUG: NFB update state: alpha = 0.316373 , beta = 0.397189 , theta = 0.225220
+[2024-09-21 23:44:00] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 579.994446, HR 108.365036, stress index 1067.879517
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.316956 , beta = 0.399976 , theta = 0.221865
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.318625 , beta = 0.401646 , theta = 0.218186
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 579.994446, HR 108.365036, stress index 1067.879517
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.322860 , beta = 0.401706 , theta = 0.213334
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.328817 , beta = 0.403571 , theta = 0.205570
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 526.699768, HR 108.010818, stress index 931.668335
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.333890 , beta = 0.408016 , theta = 0.197339
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.335677 , beta = 0.412738 , theta = 0.192615
+[2024-09-21 23:44:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.334021 , beta = 0.418776 , theta = 0.190268
+[2024-09-21 23:44:00] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 526.699768, HR 108.010818, stress index 931.668335
+[2024-09-21 23:44:00] DEBUG: NFB update state: alpha = 0.331655 , beta = 0.427793 , theta = 0.186629
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.331521 , beta = 0.436125 , theta = 0.182131
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 496.498962, HR 107.692322, stress index 946.456665
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.335221 , beta = 0.439179 , theta = 0.178185
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.339263 , beta = 0.439338 , theta = 0.174748
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.341038 , beta = 0.439925 , theta = 0.172345
+[2024-09-21 23:44:01] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 496.498962, HR 107.692322, stress index 946.456665
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.340949 , beta = 0.439188 , theta = 0.173816
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.338234 , beta = 0.435840 , theta = 0.180994
+[2024-09-21 23:44:01] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:01] DEBUG: NFB update state: alpha = 0.329763 , beta = 0.434815 , theta = 0.191144
+[2024-09-21 23:44:01] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 509.572784, HR 107.579475, stress index 959.900696
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.316615 , beta = 0.438185 , theta = 0.200694
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.306343 , beta = 0.441276 , theta = 0.206244
+[2024-09-21 23:44:02] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 528.029541, HR 107.560402, stress index 972.175659
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.304750 , beta = 0.441058 , theta = 0.205967
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.309707 , beta = 0.438945 , theta = 0.201231
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 528.029541, HR 107.560402, stress index 972.175659
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.315019 , beta = 0.437089 , theta = 0.195022
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.318636 , beta = 0.435951 , theta = 0.189563
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.320490 , beta = 0.435970 , theta = 0.186414
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:02] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 540.177002, HR 107.462685, stress index 983.427612
+[2024-09-21 23:44:02] DEBUG: NFB update state: alpha = 0.320722 , beta = 0.435362 , theta = 0.186652
+[2024-09-21 23:44:02] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.319801 , beta = 0.432418 , theta = 0.190198
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 540.177002, HR 107.462685, stress index 983.427612
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.326053 , beta = 0.424732 , theta = 0.191591
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.345686 , beta = 0.409823 , theta = 0.187435
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.370457 , beta = 0.393220 , theta = 0.180131
+[2024-09-21 23:44:03] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 552.109741, HR 107.372948, stress index 993.779541
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.389433 , beta = 0.382852 , theta = 0.171645
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.403044 , beta = 0.379342 , theta = 0.161468
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.414770 , beta = 0.377796 , theta = 0.151625
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:03] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 552.109741, HR 107.372948, stress index 993.779541
+[2024-09-21 23:44:03] DEBUG: NFB update state: alpha = 0.425341 , beta = 0.373703 , theta = 0.145765
+[2024-09-21 23:44:03] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 563.833740, HR 107.290237, stress index 1003.335144
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.436603 , beta = 0.364772 , theta = 0.143198
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.449564 , beta = 0.352802 , theta = 0.140897
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.460563 , beta = 0.342116 , theta = 0.139231
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 575.354370, HR 107.213776, stress index 1012.182861
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.467619 , beta = 0.335137 , theta = 0.138358
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.472371 , beta = 0.331537 , theta = 0.137145
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.477951 , beta = 0.326763 , theta = 0.136246
+[2024-09-21 23:44:04] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 575.354370, HR 107.213776, stress index 1012.182861
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.489557 , beta = 0.314700 , theta = 0.134897
+[2024-09-21 23:44:04] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:04] DEBUG: NFB update state: alpha = 0.508184 , beta = 0.296518 , theta = 0.131880
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 586.677551, HR 107.284760, stress index 1020.398682
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.528935 , beta = 0.277654 , theta = 0.129314
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.546897 , beta = 0.259158 , theta = 0.130606
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.560335 , beta = 0.241137 , theta = 0.134927
+[2024-09-21 23:44:05] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 586.677551, HR 107.284760, stress index 1020.398682
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.568464 , beta = 0.227834 , theta = 0.139593
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.570114 , beta = 0.221437 , theta = 0.144426
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 601.921814, HR 107.142860, stress index 1028.047852
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.569583 , beta = 0.218235 , theta = 0.148796
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.574032 , beta = 0.214662 , theta = 0.148629
+[2024-09-21 23:44:05] DEBUG: NFB update state: alpha = 0.584955 , beta = 0.210533 , theta = 0.141553
+[2024-09-21 23:44:05] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 601.921814, HR 107.142860, stress index 1028.047852
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.597149 , beta = 0.206277 , theta = 0.132669
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.605255 , beta = 0.201877 , theta = 0.127894
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 588.109497, HR 107.072052, stress index 993.779541
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.608944 , beta = 0.197564 , theta = 0.128105
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.610893 , beta = 0.194428 , theta = 0.130132
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.613462 , beta = 0.192850 , theta = 0.130409
+[2024-09-21 23:44:06] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 598.644775, HR 106.719376, stress index 1001.793945
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.618569 , beta = 0.191096 , theta = 0.127929
+[2024-09-21 23:44:06] DEBUG: NFB update state: alpha = 0.627652 , beta = 0.187763 , theta = 0.123033
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 598.644775, HR 106.719376, stress index 1001.793945
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.639009 , beta = 0.183567 , theta = 0.116737
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.647909 , beta = 0.180340 , theta = 0.111418
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.649775 , beta = 0.181619 , theta = 0.108481
+[2024-09-21 23:44:07] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 613.104614, HR 106.508865, stress index 1009.307373
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.643711 , beta = 0.188877 , theta = 0.108026
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.633052 , beta = 0.198722 , theta = 0.109643
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.622359 , beta = 0.206698 , theta = 0.112474
+[2024-09-21 23:44:07] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 613.104614, HR 106.508865, stress index 1009.307373
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.613891 , beta = 0.212055 , theta = 0.115518
+[2024-09-21 23:44:07] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.606389 , beta = 0.215876 , theta = 0.118990
+[2024-09-21 23:44:07] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 611.028259, HR 106.229500, stress index 1016.365479
+[2024-09-21 23:44:07] DEBUG: NFB update state: alpha = 0.599239 , beta = 0.217844 , theta = 0.123610
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.592565 , beta = 0.218048 , theta = 0.129176
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 611.028259, HR 106.229500, stress index 1016.365479
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.585609 , beta = 0.217968 , theta = 0.134777
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.578336 , beta = 0.219059 , theta = 0.139123
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.572079 , beta = 0.222049 , theta = 0.141356
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 621.062805, HR 106.090370, stress index 1023.008362
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.567719 , beta = 0.226047 , theta = 0.141696
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.564717 , beta = 0.229123 , theta = 0.141325
+[2024-09-21 23:44:08] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:08] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 621.062805, HR 106.090370, stress index 1023.008362
+[2024-09-21 23:44:08] DEBUG: NFB update state: alpha = 0.558439 , beta = 0.233692 , theta = 0.142790
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.543320 , beta = 0.243912 , theta = 0.148001
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.522687 , beta = 0.257140 , theta = 0.155447
+[2024-09-21 23:44:09] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 602.739685, HR 105.882355, stress index 1029.271606
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.504954 , beta = 0.268616 , theta = 0.160695
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.494434 , beta = 0.277815 , theta = 0.160037
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 603.615845, HR 105.744118, stress index 1035.187012
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.489219 , beta = 0.286223 , theta = 0.155868
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.485939 , beta = 0.292782 , theta = 0.152844
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.484668 , beta = 0.297362 , theta = 0.149780
+[2024-09-21 23:44:09] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 603.615845, HR 105.744118, stress index 1035.187012
+[2024-09-21 23:44:09] DEBUG: NFB update state: alpha = 0.484961 , beta = 0.302219 , theta = 0.143873
+[2024-09-21 23:44:09] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.482097 , beta = 0.308461 , theta = 0.138096
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 590.860107, HR 105.537460, stress index 1040.782593
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.472756 , beta = 0.315395 , theta = 0.138467
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.461597 , beta = 0.320385 , theta = 0.144843
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.453314 , beta = 0.323482 , theta = 0.151319
+[2024-09-21 23:44:10] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 590.860107, HR 105.537460, stress index 1040.782593
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.446641 , beta = 0.327510 , theta = 0.154811
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.439720 , beta = 0.332765 , theta = 0.156582
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:10] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 546.392761, HR 105.263145, stress index 886.717957
+[2024-09-21 23:44:10] DEBUG: NFB update state: alpha = 0.431434 , beta = 0.338941 , theta = 0.158956
+[2024-09-21 23:44:10] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.418316 , beta = 0.347778 , theta = 0.164140
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.397057 , beta = 0.361437 , theta = 0.171812
+[2024-09-21 23:44:11] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 546.392761, HR 105.263145, stress index 886.717957
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.368829 , beta = 0.381154 , theta = 0.179086
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.340017 , beta = 0.404172 , theta = 0.183447
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.319733 , beta = 0.419168 , theta = 0.187631
+[2024-09-21 23:44:11] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 556.024292, HR 105.194801, stress index 891.851990
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.310287 , beta = 0.417763 , theta = 0.197329
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.302788 , beta = 0.409169 , theta = 0.212378
+[2024-09-21 23:44:11] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 556.024292, HR 105.194801, stress index 891.851990
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:11] DEBUG: NFB update state: alpha = 0.294431 , beta = 0.404037 , theta = 0.224366
+[2024-09-21 23:44:11] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.293505 , beta = 0.398913 , theta = 0.227439
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 565.497986, HR 105.126541, stress index 896.729248
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.300415 , beta = 0.391718 , theta = 0.223741
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.306970 , beta = 0.388216 , theta = 0.217368
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.309495 , beta = 0.391969 , theta = 0.209787
+[2024-09-21 23:44:12] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 575.203491, HR 105.194801, stress index 901.368591
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.309904 , beta = 0.399470 , theta = 0.203254
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.311297 , beta = 0.403907 , theta = 0.200379
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.315520 , beta = 0.400435 , theta = 0.201626
+[2024-09-21 23:44:12] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 575.203491, HR 105.194801, stress index 901.368591
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:12] DEBUG: NFB update state: alpha = 0.323404 , beta = 0.389362 , theta = 0.206357
+[2024-09-21 23:44:12] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 584.757629, HR 105.194801, stress index 905.787170
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.333175 , beta = 0.375895 , theta = 0.211836
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.344094 , beta = 0.363253 , theta = 0.214312
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.355081 , beta = 0.353172 , theta = 0.213557
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.361529 , beta = 0.348131 , theta = 0.212770
+[2024-09-21 23:44:13] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 584.757629, HR 105.194801, stress index 905.787170
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.360903 , beta = 0.347493 , theta = 0.213930
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.355473 , beta = 0.348060 , theta = 0.218022
+[2024-09-21 23:44:13] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 594.167297, HR 105.126541, stress index 910.000122
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.348608 , beta = 0.348170 , theta = 0.224049
+[2024-09-21 23:44:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:13] DEBUG: NFB update state: alpha = 0.340662 , beta = 0.349734 , theta = 0.229524
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 594.167297, HR 105.126541, stress index 910.000122
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.331285 , beta = 0.356411 , theta = 0.231544
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.321103 , beta = 0.370097 , theta = 0.228206
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.312370 , beta = 0.386522 , theta = 0.221857
+[2024-09-21 23:44:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 603.438110, HR 105.058357, stress index 914.021606
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.307284 , beta = 0.399164 , theta = 0.215237
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.305615 , beta = 0.406615 , theta = 0.209068
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 591.834595, HR 105.126541, stress index 893.709961
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.306191 , beta = 0.410180 , theta = 0.204847
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.308820 , beta = 0.409455 , theta = 0.204216
+[2024-09-21 23:44:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:14] DEBUG: NFB update state: alpha = 0.311099 , beta = 0.405576 , theta = 0.207613
+[2024-09-21 23:44:18] INFO: Device disconnected. Trying connected again
+[2024-09-21 23:44:18] INFO: Session stopped
+[2024-09-21 23:44:25] INFO: Device connected
+[2024-09-21 23:44:25] INFO: Channels count: 4
+[2024-09-21 23:44:25] INFO: Channel name: O1
+[2024-09-21 23:44:25] INFO: Channel name: T3
+[2024-09-21 23:44:25] INFO: Channel name: T4
+[2024-09-21 23:44:25] INFO: Channel name: O2
+[2024-09-21 23:44:25] INFO: Channel index: 0
+[2024-09-21 23:44:25] INFO: Channel index: 1
+[2024-09-21 23:44:25] INFO: Channel index: 2
+[2024-09-21 23:44:25] INFO: Channel index: 3
+[2024-09-21 23:44:26] INFO: License verified: 1
+[2024-09-21 23:44:28] INFO: Session state: 0
+[2024-09-21 23:44:28] INFO: Session started
+[2024-09-21 23:44:28] INFO: Session UUID: aa1396e3-0324-44d9-85dc-51914628b8a2
+[2024-09-21 23:44:28] INFO: Emotion initialized 
+[2024-09-21 23:44:28] DEBUG: NFB train
+
+[2024-09-21 23:44:28] DEBUG: call addfeedback success
+
+[2024-09-21 23:44:29] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:29] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:29] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:29] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:29] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:29] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:29] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:30] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:30] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:31] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:32] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:33] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] INFO: Calibrator is ready to calibrate NFB
+Close your eyes for 30 seconds
+[2024-09-21 23:44:34] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:44:34] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:34] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:44:34] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:34] DEBUG: NFB update state: alpha = 0.309705 , beta = 0.110054 , theta = 0.470947
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.343861 , beta = 0.119662 , theta = 0.445044
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.272881 , beta = 0.191090 , theta = 0.422735
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.280441 , beta = 0.194270 , theta = 0.415164
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.283483 , beta = 0.196557 , theta = 0.413690
+[2024-09-21 23:44:35] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.282624 , beta = 0.199164 , theta = 0.417058
+[2024-09-21 23:44:35] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.278682 , beta = 0.204049 , theta = 0.424698
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.274774 , beta = 0.210508 , theta = 0.433294
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.273472 , beta = 0.216084 , theta = 0.437237
+[2024-09-21 23:44:35] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:35] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:35] DEBUG: NFB update state: alpha = 0.274421 , beta = 0.220096 , theta = 0.435309
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.276205 , beta = 0.225479 , theta = 0.428460
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.276823 , beta = 0.234026 , theta = 0.418901
+[2024-09-21 23:44:36] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.276374 , beta = 0.241431 , theta = 0.410824
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.277428 , beta = 0.243658 , theta = 0.406779
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.279522 , beta = 0.244462 , theta = 0.404274
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.281060 , beta = 0.250900 , theta = 0.396331
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:36] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:36] DEBUG: NFB update state: alpha = 0.286806 , beta = 0.262239 , theta = 0.376659
+[2024-09-21 23:44:36] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.298331 , beta = 0.269643 , theta = 0.352831
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.310197 , beta = 0.267697 , theta = 0.338688
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.319290 , beta = 0.261808 , theta = 0.333378
+[2024-09-21 23:44:37] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.326415 , beta = 0.259487 , theta = 0.327575
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.331377 , beta = 0.261451 , theta = 0.319872
+[2024-09-21 23:44:37] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.336100 , beta = 0.265199 , theta = 0.310815
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.342858 , beta = 0.267724 , theta = 0.301687
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:37] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:37] DEBUG: NFB update state: alpha = 0.349827 , beta = 0.269115 , theta = 0.295903
+[2024-09-21 23:44:37] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.353612 , beta = 0.277864 , theta = 0.286825
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.354139 , beta = 0.302862 , theta = 0.262316
+[2024-09-21 23:44:38] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.357172 , beta = 0.335945 , theta = 0.224009
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.365514 , beta = 0.351220 , theta = 0.198275
+[2024-09-21 23:44:38] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 109.090874, stress index 0.000000
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.374355 , beta = 0.346380 , theta = 0.194279
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.381473 , beta = 0.341056 , theta = 0.193915
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.386433 , beta = 0.338801 , theta = 0.192425
+[2024-09-21 23:44:38] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 109.090874, stress index 0.000000
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:38] DEBUG: NFB update state: alpha = 0.390259 , beta = 0.336845 , theta = 0.190485
+[2024-09-21 23:44:38] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.392537 , beta = 0.335371 , theta = 0.188925
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.390242 , beta = 0.336226 , theta = 0.190190
+[2024-09-21 23:44:39] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 7785279.000000, HR 109.090965, stress index 49932192.000000
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.383551 , beta = 0.339079 , theta = 0.193839
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.377847 , beta = 0.342207 , theta = 0.196163
+[2024-09-21 23:44:39] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 303.112762, HR 111.801262, stress index 1587.303101
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.376972 , beta = 0.343937 , theta = 0.194568
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.380272 , beta = 0.344938 , theta = 0.189838
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 303.112762, HR 111.801262, stress index 1587.303101
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.386906 , beta = 0.348322 , theta = 0.180096
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:39] DEBUG: NFB update state: alpha = 0.396040 , beta = 0.353550 , theta = 0.166063
+[2024-09-21 23:44:39] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.404162 , beta = 0.356951 , theta = 0.154506
+[2024-09-21 23:44:40] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 208.613235, HR 110.091728, stress index 793.645264
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.410524 , beta = 0.356191 , theta = 0.148255
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.417407 , beta = 0.351221 , theta = 0.145202
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 208.613235, HR 110.091728, stress index 793.645264
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.424862 , beta = 0.344655 , theta = 0.143489
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.428149 , beta = 0.340938 , theta = 0.144092
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.427223 , beta = 0.339703 , theta = 0.146618
+[2024-09-21 23:44:40] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 287.554047, HR 109.890137, stress index 952.374268
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.425418 , beta = 0.338161 , theta = 0.150001
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:40] DEBUG: NFB update state: alpha = 0.422677 , beta = 0.335487 , theta = 0.156704
+[2024-09-21 23:44:40] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 287.554047, HR 109.890137, stress index 952.374268
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.417117 , beta = 0.333856 , theta = 0.169622
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.411121 , beta = 0.334779 , theta = 0.183413
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.407800 , beta = 0.334886 , theta = 0.192586
+[2024-09-21 23:44:41] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 160.746567, HR 107.784431, stress index 476.188660
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.406614 , beta = 0.332043 , theta = 0.198731
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.407145 , beta = 0.330682 , theta = 0.202198
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 160.746567, HR 107.784431, stress index 476.188660
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.407081 , beta = 0.335493 , theta = 0.201415
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:41] DEBUG: NFB update state: alpha = 0.404309 , beta = 0.343006 , theta = 0.199683
+[2024-09-21 23:44:41] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.398886 , beta = 0.349300 , theta = 0.201294
+[2024-09-21 23:44:42] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 125.036400, HR 106.329117, stress index 408.161713
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.395009 , beta = 0.352821 , theta = 0.204801
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.394436 , beta = 0.355042 , theta = 0.204909
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 125.036400, HR 106.329117, stress index 408.161713
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.391400 , beta = 0.361234 , theta = 0.200003
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.379814 , beta = 0.374489 , theta = 0.194509
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.363074 , beta = 0.390096 , theta = 0.192496
+[2024-09-21 23:44:42] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 92.124504, HR 104.575157, stress index 274.725037
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.348272 , beta = 0.402469 , theta = 0.192468
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:42] DEBUG: NFB update state: alpha = 0.337919 , beta = 0.409887 , theta = 0.192795
+[2024-09-21 23:44:42] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 92.124504, HR 104.575157, stress index 274.725037
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.330083 , beta = 0.408973 , theta = 0.199421
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.323234 , beta = 0.398433 , theta = 0.216791
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.317974 , beta = 0.386799 , theta = 0.234994
+[2024-09-21 23:44:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 71.074104, HR 102.857147, stress index 211.640747
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.315657 , beta = 0.383036 , theta = 0.241753
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.316006 , beta = 0.386034 , theta = 0.238075
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 71.074104, HR 102.857147, stress index 211.640747
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.314955 , beta = 0.389275 , theta = 0.234904
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.312496 , beta = 0.388263 , theta = 0.237257
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:43] DEBUG: NFB update state: alpha = 0.312593 , beta = 0.379706 , theta = 0.243651
+[2024-09-21 23:44:43] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 60.141026, HR 101.522850, stress index 190.476685
+[2024-09-21 23:44:43] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.311781 , beta = 0.366262 , theta = 0.255332
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.305350 , beta = 0.355689 , theta = 0.270508
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 60.141026, HR 101.522850, stress index 190.476685
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.296401 , beta = 0.351768 , theta = 0.283244
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.291854 , beta = 0.349882 , theta = 0.290872
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.293208 , beta = 0.343958 , theta = 0.297281
+[2024-09-21 23:44:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 51.968540, HR 100.303955, stress index 162.337830
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.294485 , beta = 0.335750 , theta = 0.305942
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: NFB update state: alpha = 0.292433 , beta = 0.331248 , theta = 0.313294
+[2024-09-21 23:44:44] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:44] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 51.968540, HR 100.303955, stress index 162.337830
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.289013 , beta = 0.332217 , theta = 0.316025
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.286458 , beta = 0.334730 , theta = 0.316751
+[2024-09-21 23:44:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 81.100151, HR 99.447502, stress index 154.321121
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.284877 , beta = 0.336795 , theta = 0.317626
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.285327 , beta = 0.338478 , theta = 0.316741
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.287643 , beta = 0.339461 , theta = 0.313756
+[2024-09-21 23:44:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 81.100151, HR 99.447502, stress index 154.321121
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.289877 , beta = 0.340268 , theta = 0.310258
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.291464 , beta = 0.339680 , theta = 0.308446
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:45] DEBUG: NFB update state: alpha = 0.293102 , beta = 0.333374 , theta = 0.312122
+[2024-09-21 23:44:45] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 72.354790, HR 99.363060, stress index 153.846298
+[2024-09-21 23:44:45] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.293282 , beta = 0.321061 , theta = 0.321854
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.289204 , beta = 0.310089 , theta = 0.332986
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 72.354790, HR 99.363060, stress index 153.846298
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.282050 , beta = 0.304302 , theta = 0.341449
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.278537 , beta = 0.299712 , theta = 0.346288
+[2024-09-21 23:44:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 87.394844, HR 99.408287, stress index 178.571609
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.283482 , beta = 0.291562 , theta = 0.349248
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.294006 , beta = 0.281359 , theta = 0.351624
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.302361 , beta = 0.273892 , theta = 0.353240
+[2024-09-21 23:44:46] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 87.394844, HR 99.408287, stress index 178.571609
+[2024-09-21 23:44:46] DEBUG: NFB update state: alpha = 0.303637 , beta = 0.272554 , theta = 0.352543
+[2024-09-21 23:44:46] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.299863 , beta = 0.276749 , theta = 0.349906
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.295751 , beta = 0.283451 , theta = 0.346314
+[2024-09-21 23:44:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 84.433975, HR 99.557518, stress index 166.666824
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.293669 , beta = 0.292299 , theta = 0.339491
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.294776 , beta = 0.302198 , theta = 0.327461
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 81.362404, HR 99.792099, stress index 156.250153
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.297011 , beta = 0.310389 , theta = 0.315438
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.298074 , beta = 0.314771 , theta = 0.309222
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.297899 , beta = 0.314817 , theta = 0.309675
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:47] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 81.362404, HR 99.792099, stress index 156.250153
+[2024-09-21 23:44:47] DEBUG: NFB update state: alpha = 0.297241 , beta = 0.313370 , theta = 0.312058
+[2024-09-21 23:44:47] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.296145 , beta = 0.315669 , theta = 0.311423
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 71.812469, HR 100.098145, stress index 159.846680
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.293782 , beta = 0.323756 , theta = 0.307559
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.292183 , beta = 0.331175 , theta = 0.303822
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.293373 , beta = 0.333420 , theta = 0.300999
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 71.812469, HR 100.098145, stress index 159.846680
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.294891 , beta = 0.334831 , theta = 0.297183
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.295807 , beta = 0.339812 , theta = 0.289357
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 82.943115, HR 100.371758, stress index 181.159576
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:48] DEBUG: NFB update state: alpha = 0.297739 , beta = 0.347321 , theta = 0.277644
+[2024-09-21 23:44:48] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.307406 , beta = 0.357053 , theta = 0.254024
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 82.943115, HR 100.371758, stress index 181.159576
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.313457 , beta = 0.357850 , theta = 0.245886
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.318635 , beta = 0.357593 , theta = 0.239472
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 93.945198, HR 100.529106, stress index 200.229019
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.324389 , beta = 0.354618 , theta = 0.234584
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.331161 , beta = 0.347396 , theta = 0.232449
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.338223 , beta = 0.339411 , theta = 0.231620
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 88.075790, HR 101.010101, stress index 190.217560
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.345002 , beta = 0.332949 , theta = 0.228006
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:49] DEBUG: NFB update state: alpha = 0.350298 , beta = 0.328637 , theta = 0.220776
+[2024-09-21 23:44:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 88.075790, HR 101.010101, stress index 190.217560
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.355643 , beta = 0.328754 , theta = 0.210477
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.366000 , beta = 0.332178 , theta = 0.197260
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.384188 , beta = 0.331413 , theta = 0.184095
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 84.128342, HR 101.367661, stress index 181.159576
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.411158 , beta = 0.320719 , theta = 0.172684
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.436375 , beta = 0.308619 , theta = 0.162624
+[2024-09-21 23:44:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 84.128342, HR 101.367661, stress index 181.159576
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.449580 , beta = 0.305585 , theta = 0.152780
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.456614 , beta = 0.308000 , theta = 0.141631
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: NFB update state: alpha = 0.467073 , beta = 0.305656 , theta = 0.130870
+[2024-09-21 23:44:50] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:50] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 92.200401, HR 101.694908, stress index 197.628632
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.481348 , beta = 0.298584 , theta = 0.123699
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.493566 , beta = 0.292038 , theta = 0.121098
+[2024-09-21 23:44:51] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 92.200401, HR 101.694908, stress index 197.628632
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.500954 , beta = 0.287175 , theta = 0.121541
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.506497 , beta = 0.281074 , theta = 0.123924
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.512004 , beta = 0.272695 , theta = 0.129369
+[2024-09-21 23:44:51] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 100.553459, HR 101.920235, stress index 212.665604
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.516604 , beta = 0.263625 , theta = 0.135390
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: NFB update state: alpha = 0.524871 , beta = 0.255579 , theta = 0.136033
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:51] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 109.063416, HR 102.055283, stress index 226.449478
+[2024-09-21 23:44:51] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.538637 , beta = 0.248655 , theta = 0.131000
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.555424 , beta = 0.241528 , theta = 0.124244
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.570906 , beta = 0.233377 , theta = 0.119392
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 109.063416, HR 102.055283, stress index 226.449478
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.583184 , beta = 0.224748 , theta = 0.116862
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.592910 , beta = 0.217750 , theta = 0.114467
+[2024-09-21 23:44:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 117.241814, HR 102.179840, stress index 239.130646
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.600067 , beta = 0.213250 , theta = 0.112429
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.604793 , beta = 0.207992 , theta = 0.112876
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.609508 , beta = 0.200527 , theta = 0.114696
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:52] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 117.241814, HR 102.179840, stress index 239.130646
+[2024-09-21 23:44:52] DEBUG: NFB update state: alpha = 0.614336 , beta = 0.194008 , theta = 0.115659
+[2024-09-21 23:44:52] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.617385 , beta = 0.190957 , theta = 0.116013
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 125.119423, HR 102.295090, stress index 250.836349
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.618263 , beta = 0.190161 , theta = 0.116323
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.617219 , beta = 0.190468 , theta = 0.117246
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 125.119423, HR 102.295090, stress index 250.836349
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.615820 , beta = 0.192139 , theta = 0.117490
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.613720 , beta = 0.195083 , theta = 0.117831
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.608152 , beta = 0.197170 , theta = 0.123312
+[2024-09-21 23:44:53] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 132.118729, HR 102.228050, stress index 261.674957
+[2024-09-21 23:44:53] DEBUG: NFB update state: alpha = 0.601176 , beta = 0.196717 , theta = 0.133418
+[2024-09-21 23:44:53] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.596786 , beta = 0.196421 , theta = 0.141642
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.595051 , beta = 0.199065 , theta = 0.144755
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 138.859558, HR 102.161102, stress index 271.739380
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.594339 , beta = 0.203275 , theta = 0.144231
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.593885 , beta = 0.206426 , theta = 0.142357
+[2024-09-21 23:44:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 138.859558, HR 102.161102, stress index 271.739380
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.592789 , beta = 0.209340 , theta = 0.140847
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.589643 , beta = 0.213965 , theta = 0.140592
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:54] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 145.366119, HR 101.827675, stress index 281.109680
+[2024-09-21 23:44:54] DEBUG: NFB update state: alpha = 0.584158 , beta = 0.219233 , theta = 0.142346
+[2024-09-21 23:44:54] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.578323 , beta = 0.222748 , theta = 0.146080
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.572080 , beta = 0.225789 , theta = 0.150880
+[2024-09-21 23:44:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 145.366119, HR 101.827675, stress index 281.109680
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.565455 , beta = 0.230293 , theta = 0.155484
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.560929 , beta = 0.232460 , theta = 0.160654
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.557545 , beta = 0.229480 , theta = 0.168126
+[2024-09-21 23:44:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 150.777069, HR 101.960785, stress index 289.855316
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.553698 , beta = 0.223506 , theta = 0.177295
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.550561 , beta = 0.219474 , theta = 0.183082
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 150.777069, HR 101.960785, stress index 289.855316
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.548431 , beta = 0.220807 , theta = 0.182718
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:55] DEBUG: NFB update state: alpha = 0.546070 , beta = 0.225696 , theta = 0.180555
+[2024-09-21 23:44:55] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 157.428696, HR 101.827675, stress index 298.036743
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.539445 , beta = 0.231462 , theta = 0.182418
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.525771 , beta = 0.238631 , theta = 0.188961
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.507894 , beta = 0.246493 , theta = 0.197871
+[2024-09-21 23:44:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 152.317368, HR 102.295090, stress index 288.723083
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.490221 , beta = 0.251551 , theta = 0.209006
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.473024 , beta = 0.252513 , theta = 0.223841
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.456648 , beta = 0.251854 , theta = 0.240004
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 152.317368, HR 102.295090, stress index 288.723083
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.443628 , beta = 0.252997 , theta = 0.251601
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:56] DEBUG: NFB update state: alpha = 0.435585 , beta = 0.257692 , theta = 0.256059
+[2024-09-21 23:44:56] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.219635, HR 102.631577, stress index 296.442963
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.433150 , beta = 0.263365 , theta = 0.254513
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.434927 , beta = 0.266168 , theta = 0.249672
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.438990 , beta = 0.265352 , theta = 0.245035
+[2024-09-21 23:44:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.219635, HR 102.631577, stress index 296.442963
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.442819 , beta = 0.264246 , theta = 0.243028
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.443868 , beta = 0.264369 , theta = 0.243557
+[2024-09-21 23:44:57] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 152.273544, HR 103.379723, stress index 287.724060
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.442070 , beta = 0.265481 , theta = 0.246239
+[2024-09-21 23:44:57] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.439781 , beta = 0.268543 , theta = 0.246845
+[2024-09-21 23:44:57] DEBUG: NFB update state: alpha = 0.438989 , beta = 0.278248 , theta = 0.237876
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 152.273544, HR 103.379723, stress index 287.724060
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.436562 , beta = 0.294468 , theta = 0.222677
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.432728 , beta = 0.307401 , theta = 0.211995
+[2024-09-21 23:44:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.430166 , beta = 0.309257 , theta = 0.210932
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.426620 , beta = 0.305150 , theta = 0.215808
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.419191 , beta = 0.302460 , theta = 0.221589
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.410580 , beta = 0.301889 , theta = 0.226552
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:58] DEBUG: NFB update state: alpha = 0.403040 , beta = 0.301986 , theta = 0.231088
+[2024-09-21 23:44:58] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.397497 , beta = 0.303527 , theta = 0.233048
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.394257 , beta = 0.306827 , theta = 0.230402
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.391295 , beta = 0.308676 , theta = 0.228783
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.386154 , beta = 0.307197 , theta = 0.233152
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.379657 , beta = 0.306539 , theta = 0.237752
+[2024-09-21 23:44:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.373948 , beta = 0.311355 , theta = 0.236987
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.369634 , beta = 0.318569 , theta = 0.234332
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: NFB update state: alpha = 0.366631 , beta = 0.322539 , theta = 0.234820
+[2024-09-21 23:44:59] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:44:59] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 158.306946, HR 103.861526, stress index 295.031311
+[2024-09-21 23:45:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:00] DEBUG: NFB update state: alpha = 0.364878 , beta = 0.323014 , theta = 0.236879
+[2024-09-21 23:45:00] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:00] DEBUG: NFB update state: alpha = 0.363473 , beta = 0.323798 , theta = 0.237533
+[2024-09-21 23:45:03] INFO: Device disconnected. Trying connected again
+[2024-09-21 23:45:03] INFO: Session stopped
+[2024-09-21 23:45:09] INFO: Device connected
+[2024-09-21 23:45:09] INFO: Channels count: 4
+[2024-09-21 23:45:09] INFO: Channel name: O1
+[2024-09-21 23:45:09] INFO: Channel name: T3
+[2024-09-21 23:45:09] INFO: Channel name: T4
+[2024-09-21 23:45:09] INFO: Channel name: O2
+[2024-09-21 23:45:09] INFO: Channel index: 0
+[2024-09-21 23:45:09] INFO: Channel index: 1
+[2024-09-21 23:45:09] INFO: Channel index: 2
+[2024-09-21 23:45:09] INFO: Channel index: 3
+[2024-09-21 23:45:11] INFO: License verified: 1
+[2024-09-21 23:45:12] INFO: Session state: 0
+[2024-09-21 23:45:12] INFO: Session started
+[2024-09-21 23:45:12] INFO: Session UUID: 1bab2b07-0770-4c7e-88a7-d173129f0ae8
+[2024-09-21 23:45:12] INFO: Emotion initialized 
+[2024-09-21 23:45:12] DEBUG: NFB train
+
+[2024-09-21 23:45:12] DEBUG: call addfeedback success
+
+[2024-09-21 23:45:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:13] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:13] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:14] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:14] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:15] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:15] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:16] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:16] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:17] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:17] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] INFO: Calibrator is ready to calibrate NFB
+Close your eyes for 30 seconds
+[2024-09-21 23:45:18] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:18] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:18] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:18] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:18] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.000001 , beta = 0.000001 , theta = 0.000001
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:19] DEBUG: NFB update state: alpha = 0.354248 , beta = 0.120197 , theta = 0.392491
+[2024-09-21 23:45:19] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.376767 , beta = 0.130340 , theta = 0.344446
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.400990 , beta = 0.138099 , theta = 0.304116
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.403648 , beta = 0.142114 , theta = 0.298400
+[2024-09-21 23:45:20] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.391567 , beta = 0.148353 , theta = 0.309069
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.368590 , beta = 0.160258 , theta = 0.321851
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.341532 , beta = 0.176554 , theta = 0.330763
+[2024-09-21 23:45:20] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.322574 , beta = 0.190954 , theta = 0.334212
+[2024-09-21 23:45:20] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:20] DEBUG: NFB update state: alpha = 0.317804 , beta = 0.196776 , theta = 0.335981
+[2024-09-21 23:45:21] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:21] DEBUG: Cardio index update: (artifacted 0), Kaplan's index 0.000000, HR 0.000000, stress index 0.000000
+[2024-09-21 23:45:21] DEBUG: NFB update state: alpha = 0.322342 , beta = 0.194355 , theta = 0.340439
+[2024-09-21 23:45:21] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:21] DEBUG: NFB update state: alpha = 0.325763 , beta = 0.191703 , theta = 0.347537
+[2024-09-21 23:45:21] DEBUG: MEMS update: showing 1 of 32 values
+[2024-09-21 23:45:21] DEBUG: NFB update state: alpha = 0.315101 , beta = 0.198213 , theta = 0.359868
+[2024-09-22 00:13:35] INFO: version of the library: v1.5.0-363b787d7 (Release - 2024-07-11T15:57:21Z)
+[2024-09-22 00:13:35] INFO: client name of the library: unknown
+[2024-09-22 00:13:35] INFO: Client connected
+[2024-09-22 00:13:50] INFO: No devices found

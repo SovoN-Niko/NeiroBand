@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/hackaton/BCI_hack/CapsuleAPI/Win/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include/Core -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -o CMakeFiles\\CapsuleClientExample.dir\\Source\\main.cpp.obj -c C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\main.cpp",
+  "file": "C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\main.cpp",
+  "output": "CMakeFiles\\CapsuleClientExample.dir\\Source\\main.cpp.obj"
+},
+{
+  "directory": "C:/hackaton/BCI_hack/CapsuleAPI/Win/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include/Core -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -o CMakeFiles\\CapsuleRawSignalExample.dir\\Source\\RawSignalExample.cpp.obj -c C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\RawSignalExample.cpp",
+  "file": "C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\RawSignalExample.cpp",
+  "output": "CMakeFiles\\CapsuleRawSignalExample.dir\\Source\\RawSignalExample.cpp.obj"
+},
+{
+  "directory": "C:/hackaton/BCI_hack/CapsuleAPI/Win/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include -IC:/hackaton/BCI_hack/CapsuleAPI/Win/Include/Core -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -o CMakeFiles\\CapsuleFilteredSignalExample.dir\\Source\\FilteredSignalExample.cpp.obj -c C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\FilteredSignalExample.cpp",
+  "file": "C:\\hackaton\\BCI_hack\\CapsuleAPI\\Win\\Source\\FilteredSignalExample.cpp",
+  "output": "CMakeFiles\\CapsuleFilteredSignalExample.dir\\Source\\FilteredSignalExample.cpp.obj"
+}
+]

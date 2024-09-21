@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\hackaton\BCI_hack\CapsuleAPI\Win\build\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\hackaton\BCI_hack\CapsuleAPI\Win\build\build\Release\CapsuleClientExample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\hackaton\BCI_hack\CapsuleAPI\Win\build\build\Release\CapsuleFilteredSignalExample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\hackaton\BCI_hack\CapsuleAPI\Win\build\build\Release\CapsuleRawSignalExample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\hackaton\BCI_hack\CapsuleAPI\Win\build\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

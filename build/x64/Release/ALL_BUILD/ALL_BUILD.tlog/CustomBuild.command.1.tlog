@@ -1,0 +1,10 @@
+^C:\HACKATON\BCI_HACK\CAPSULEAPI\WIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/hackaton/BCI_hack/CapsuleAPI/Win -BC:/hackaton/BCI_hack/CapsuleAPI/Win/build --check-stamp-file C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

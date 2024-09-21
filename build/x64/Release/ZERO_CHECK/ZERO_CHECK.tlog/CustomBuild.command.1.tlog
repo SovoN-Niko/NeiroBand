@@ -1,0 +1,10 @@
+^C:\HACKATON\BCI_HACK\CAPSULEAPI\WIN\BUILD\CMAKEFILES\2DDFE34DA8C3DE2793364A36EEE9B708\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/hackaton/BCI_hack/CapsuleAPI/Win -BC:/hackaton/BCI_hack/CapsuleAPI/Win/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/hackaton/BCI_hack/CapsuleAPI/Win/build/CapsuleClientExample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
